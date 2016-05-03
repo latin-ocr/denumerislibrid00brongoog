@@ -1,0 +1,23 @@
+Esempio II:
+
+Risult'ato (Divisore z 8) Numero dividendo
+
+11 risultato ὲ 56, 0 infatti 448 : 8 = 56.
+
+Esempio III:
+
+Risultato (Divisere : 2 ἑ) Numero dividendo
+
+11 risultato ὸ 112, 0 infatti 280 : 2ὲ = 112.
+
+2
+
+L’ Α. termina questo capitolo avvertendo 0110
+quando si presenta il caso di dividere per 12, si
+’ 0001011000 dividere per 3 e segnare la quarta parte
+soltanto di quello 0110 risulterebbe. cosi, ad esempio,
+essendo proposta la divisione di 3330 per 12, si
+avrebbe 11 quadro seguente:
+
+ 
+

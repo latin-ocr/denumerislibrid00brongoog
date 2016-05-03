@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN"
+    "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en" lang="en">
+ <head>
+  <title>
+</title>
+<meta http-equiv="Content-Type" content="text/html;charset=utf-8" />
+  <meta name='ocr-system' content='tesseract 3.04.00' />
+  <meta name='ocr-capabilities' content='ocr_page ocr_carea ocr_par ocr_line ocrx_word'/>
+</head>
+<body>
+  <div class='ocr_page' id='page_1' title='image "./denumerislibrid00brongoog_0187.png"; bbox 0 0 3128 4554; ppageno 0'>
+   <div class='ocr_carea' id='block_1_1' title="bbox 661 1848 794 1858">
+    <p class='ocr_par' dir='ltr' id='par_1_1' title="bbox 661 1848 794 1858">
+     <span class='ocr_line' id='line_1_1' title="bbox 661 1848 794 1858; baseline 0.023 -2"><span class='ocrx_word' id='word_1_1' title='bbox 661 1848 794 1858; x_wconf 67' lang='lat'><strong>—-—-·—</strong></span> 
+     </span>
+    </p>
+   </div>
+   <div class='ocr_carea' id='block_1_2' title="bbox 569 1965 882 2038">
+    <p class='ocr_par' dir='ltr' id='par_1_2' title="bbox 569 1965 882 2038">
+     <span class='ocr_line' id='line_1_2' title="bbox 569 1965 882 2038; baseline 0.016 -21"><span class='ocrx_word' id='word_1_2' title='bbox 569 1965 668 2019; x_wconf 80' lang='lat' dir='ltr'><em>Finito</em></span> <span class='ocrx_word' id='word_1_3' title='bbox 688 1967 720 2020; x_wconf 78' lang='lat' dir='ltr'><em>di</em></span> <span class='ocrx_word' id='word_1_4' title='bbox 739 1978 882 2038; x_wconf 81' lang='lat' dir='ltr'><strong><em>stampare</em></strong></span> 
+     </span>
+    </p>
+   </div>
+   <div class='ocr_carea' id='block_1_3' title="bbox 434 2091 1015 2161">
+    <p class='ocr_par' dir='ltr' id='par_1_3' title="bbox 434 2091 1015 2161">
+     <span class='ocr_line' id='line_1_3' title="bbox 434 2091 1015 2161; baseline 0.012 -19"><span class='ocrx_word' id='word_1_5' title='bbox 434 2091 458 2142; x_wconf 79' lang='lat' dir='ltr'><em>il</em></span> <span class='ocrx_word' id='word_1_6' title='bbox 474 2092 576 2160; x_wconf 71' lang='lat' dir='ltr'><em>yiorno</em></span> <span class='ocrx_word' id='word_1_7' title='bbox 596 2092 633 2143; x_wconf 88' lang='lat'><em>15</em></span> <span class='ocrx_word' id='word_1_8' title='bbox 652 2092 756 2161; x_wconf 72' lang='lat' dir='ltr'><em>Luqlio</em></span> <span class='ocrx_word' id='word_1_9' title='bbox 776 2093 852 2146; x_wconf 88' lang='lat'><em>1901</em></span> <span class='ocrx_word' id='word_1_10' title='bbox 871 2124 905 2136; x_wconf 92' lang='lat'><em>-</em></span> <span class='ocrx_word' id='word_1_11' title='bbox 924 2096 1015 2149; x_wconf 80' lang='lat' dir='ltr'><em>Pavia</em></span> 
+     </span>
+    </p>
+   </div>
+   <div class='ocr_carea' id='block_1_4' title="bbox 658 2273 791 2282">
+    <p class='ocr_par' dir='ltr' id='par_1_4' title="bbox 658 2273 791 2282">
+     <span class='ocr_line' id='line_1_4' title="bbox 658 2273 791 2282; baseline 0.023 -3"><span class='ocrx_word' id='word_1_12' title='bbox 658 2273 791 2282; x_wconf 73' lang='lat'><strong>-——.--</strong></span> 
+     </span>
+    </p>
+   </div>
+   <div class='ocr_carea' id='block_1_5' title="bbox 0 0 1568 4554">
+    <p class='ocr_par' dir='ltr' id='par_1_5' title="bbox 0 0 1568 4554">
+     <span class='ocr_line' id='line_1_5' title="bbox 0 0 1568 4554; baseline 0 0"><span class='ocrx_word' id='word_1_13' title='bbox 0 0 1568 4554; x_wconf 95' lang='lat' dir='ltr'><em> </em></span> 
+     </span>
+    </p>
+   </div>
+  </div>
+ </body>
+</html>

@@ -1,0 +1,22 @@
+27
+
+31
+33
+
+35
+37
+39 39
+
+Nella seconda colonna stanno ordinatamente
+
+trascritti i successivi numeri impari incominciando
+
+0013. Ora moltiplioando questi successivi numeri
+impari per 3 si ottengono i numeri composti della
+terza colonna 9. 15. 21. 27. ecc. Se si moltiplicano
+per 5, si ottengono i numeri composti della quarta
+colonna 15. 25. 35. eoo. - Se si moltiplieano per 7,
+si ottengono inumeri composti della quinta colonita
+
+ 
+

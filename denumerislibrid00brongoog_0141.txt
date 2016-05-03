@@ -1,0 +1,44 @@
+-129-
+
+per due determina le speeie dei numeri impari (1).
+Ι numeri parimente impari si formano appunto
+, raddoppiandoi numeri impari scritti nel loro ordine
+
+naturale - (Producitur ab imparibus uaturali
+ordiue se cousequeutibus et biuurio uumero pe-
+minatis).
+
+Ι numeri dispari scritti nel loro ordine naturale
+
+danno la serie: l. 3. 5. 7. 9. ll. 13 ...., raddop
+piando oiasouno di questi termini avremo inumeri
+parimente irupari: 2. 6. 10. 14. 18. 22. 26....,
+ognuno dei quali si pno dividere nna volta sola per 2.
+Tra due snooessivi termini di questa ultima serie
+passa oostantemente una differenda eguale at e
+posenno essere interposti tre successivi numeri di-
+stinti (2).
+
+——-—...
+
+(l) veramente ΓΑ. scrisse: Pariter impar est qui per ma-
+xima diuisus, imparium uumerarum spectes coustituit3 tradu-
+eendo letteralmente si avrebbe: «Purimeate impari e quel
+numero, che diviso in due eguali massime parti genera le
+speeie dei numeri dispari u.
+
+(2) Secondo Enomnn: Pariter impar est quem par uumerus
+secuudum imparem numerum metitur. (ΙΙ numero parimeute
+imperii quello ohe diviso per un numero pari da per risultato
+un numero impari). Questa definizione rieeve maggior luce e
+concorda eon quella dol nostro A. e eon quella di Loca Pacalom
+(Pariter impar equol numero che non si pud chouna sola
+volta partire per 2), quando si considera il procedimanto esposto
+successivemente per determinare i numeri parimente impari.
+— Troas m Smmnn lasoid scritto: Purimeute impari e quel
+numero, ohe, diviso per 2, da un quoziente impari.
+
+9
+
+ 
+
